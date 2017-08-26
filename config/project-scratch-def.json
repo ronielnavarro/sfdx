@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
     "orgName": "ronielnavarro Company",
+=======
+    "orgName": "Demo Company",
+>>>>>>> 444e67b81f6a1a8f55e25001edb3b0355ebfce55
     "edition": "Developer",
     "orgPreferences" : {
         "enabled": ["S1DesktopEnabled"]
